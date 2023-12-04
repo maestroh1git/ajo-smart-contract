@@ -657,4 +657,8 @@ contract Esusu {
 
 
     }
+
+    // ToDo
+    // Handle anonymous donations
+    receive() external payable {}
 }
